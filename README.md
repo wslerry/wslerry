@@ -12,7 +12,7 @@
       <p>
         🌙 By night, I'm something else.. ✍️🗺️⌨️🖥️⚙️
       </p>
-      <h3>Other places you can find me</h3>
+      <h3>You can find and contact me somewhere else too..</h3>
       <ul>
         <li>
           🐦 <a href="https://twitter.com/wslerry">Follow me on Twitter</a>
