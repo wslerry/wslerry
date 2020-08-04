@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://user-images.githubusercontent.com/1045274/88438860-a0f07f80-cdd7-11ea-9643-8aebdf09225e.png" />
+      <img width="400" src="https://github.com/wslerry/images_repo/blob/master/10446023_4749877761026_772651600858599037_o.png" />
     </td>
     <td style="border: 0";>
       <p>
