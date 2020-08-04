@@ -15,7 +15,7 @@
       <h3>Other places you can find me</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/colbyfayock">Follow me on Twitter</a>
+          🐦 <a href="https://twitter.com/wslerry">Follow me on Twitter</a>
         </li>
         <li>
           📬 <a href="mailto: lerryws.xyz@outlook.com">You can directly email me</a>
