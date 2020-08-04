@@ -1,6 +1,5 @@
 ![counter](https://enptoztq5pvuv8q.m.pipedream.net)
 
-<!--
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
@@ -8,10 +7,10 @@
     </td>
     <td style="border: 0";>
       <p>
-        ☀️ By day, I'm a Lead UX & Front End Astrocoder at <a href="https://github.com/element84">Element 84<a/>.
+        ☀️ By day, I'm a GIS Analyst!
       </p>
       <p>
-        🌙 By night, I'm an <a href="https://www.freecodecamp.org/news/author/colbyfayock/">author on freecodecamp.org</a>, I supplement that writing with <a href="https://youtube.com/colbyfayock">videos on Youtube</a>, and I'm an <a href="https://egghead.io/instructors/colby-fayock?af=atzgap">instructor at Egghead.io</a>.
+        🌙 By night, I'm something else.. ✍️🗺️⌨️🖥️⚙️
       </p>
       <h3>Other places you can find me</h3>
       <ul>
@@ -19,16 +18,12 @@
           🐦 <a href="https://twitter.com/colbyfayock">Follow me on Twitter</a>
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/colbyfayock?sub_confirmation=1">Subscribe on Youtube</a>
-        </li>
-        <li>
-          📬 <a href="https://colbyfayock.com/newsletter">Get fresh content straight to your inbox</a>
+          📬 <a href="mailto: lerryws.xyz@outlook.com">You can directly email me</a>
         </li>
       </ul>
     </td>
   </tr>
 </table>
--->
 
 <!--
 **wslerry/wslerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
