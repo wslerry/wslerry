@@ -1,5 +1,6 @@
 ![counter](https://enptoztq5pvuv8q.m.pipedream.net)
 
+<!--
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
@@ -27,7 +28,7 @@
     </td>
   </tr>
 </table>
-
+-->
 
 <!--
 **wslerry/wslerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
