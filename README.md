@@ -1,5 +1,5 @@
 ![counter](https://enptoztq5pvuv8q.m.pipedream.net)
-
+<script src="https://kit.fontawesome.com/0332e052ca.js" crossorigin="anonymous"></script>
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
@@ -15,10 +15,10 @@
       <h3>You can find and contact me somewhere else too..</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/wslerry">Follow me on Twitter</a>
+          <i class="fab fa-twitter-square"></i><a href="https://twitter.com/wslerry">Follow me on Twitter</a>
         </li>
         <li>
-          📬 <a href="mailto: lerryws.xyz@outlook.com">You can directly email me</a>
+          <i class="fab fa-twitter-square"></i><a href="mailto: lerryws.xyz@outlook.com">You can directly email me</a>
         </li>
       </ul>
     </td>
