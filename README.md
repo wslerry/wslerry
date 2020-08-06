@@ -10,7 +10,7 @@
         ☀️ By day, I'm a GIS Analyst!
       </p>
       <p>
-        🌙 By night, I'm something else.. ✍️🗺️⌨️🖥️⚙️🥁🎣
+        🌙 By night, 🧟‍♂️ ✍️ 🗺️ ⌨️ 🖥️ ⚙️ 🥁 🎣
       </p>
       <h3>You can find and contact me somewhere else too..</h3>
       <ul>
