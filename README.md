@@ -12,15 +12,15 @@
       <p>
         🌙 By night, 🧟‍♂️ ✍️ 🗺️ ⌨️ 🖥️ ⚙️ 🥁 🎣
       </p>
-      <h3>You can find and contact me somewhere else too..</h3>
-      <ul>
+<!--       <h3>You can find and contact me somewhere else too..</h3> -->
+<!--       <ul>
         <li>
           <i class="fab fa-twitter-square"></i><a href="https://twitter.com/wslerry">Follow me on Twitter</a>
         </li>
         <li>
           <i class="fab fa-twitter-square"></i><a href="mailto: lerryws.xyz@outlook.com">You can directly email me</a>
         </li>
-      </ul>
+      </ul> -->
     </td>
   </tr>
 </table>
