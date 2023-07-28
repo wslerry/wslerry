@@ -1,26 +1,4 @@
 ![counter](https://enptoztq5pvuv8q.m.pipedream.net)
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="200" src="https://user-images.githubusercontent.com/4013518/89487925-4690ef00-d7d9-11ea-91b1-a5d9e4083f01.png" />
-    </td>
-    <td style="border: 0";>
-      <p>
-        ☀️ By day, I'm a GIS Analyst!
-      </p>
-      <p>
-        🌙 By night, 🧟‍♂️ ✍️ 🗺️ ⌨️ 🖥️ ⚙️ 🥁 🎣
-      </p>
-<!--       <h3>You can find and contact me somewhere else too..</h3> -->
-<!--       <ul>
-        <li>
-          <i class="fab fa-twitter-square"></i><a href="https://twitter.com/wslerry">Follow me on Twitter</a>
-        </li>
-        <li>
-          <i class="fab fa-twitter-square"></i><a href="mailto: lerryws.xyz@outlook.com">You can directly email me</a>
-        </li>
-      </ul> -->
-    </td>
-  </tr>
-</table>
+
+![Metrics](https://metrics.lecoq.io/wslerry?template=terminal&isocalendar=1&habits=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&gists=false&config.timezone=Asia%2FKuala_Lumpur)
